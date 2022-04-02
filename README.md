@@ -1,4 +1,4 @@
 # Sci_Calculator
 
-* This Sci_Calculator is a seveenteen function sciencetific calculator.
-* The calculator covering basic Arthematic, Exponential, Logarithmic opeartions. 
+* This Sci_Calculator is a seventeen-function scientific calculator.
+* The Sci_Calculator covers basic Arthematic, Exponential, and Logarithmic calculation operations. 
